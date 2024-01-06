@@ -1,0 +1,1 @@
+# Vertical Text Sliding Animation
