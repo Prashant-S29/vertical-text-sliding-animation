@@ -1,0 +1,36 @@
+{
+  "name": "vertical-slide-text-animation",
+  "version": "1.0.0",
+  "description": "A library for create amazing text animation",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prashant-S29/vertical-text-sliding-animation.git"
+  },
+  "keywords": [
+    "Vertical Text Animation",
+    "React Vertical Text Animation",
+    "Text Animation",
+    "NextJS Text Animation"
+  ],
+  "author": "Code-Prashant <prashant.s2922@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prashant-S29/vertical-text-sliding-animation/issues"
+  },
+  "homepage": "https://github.com/Prashant-S29/vertical-text-sliding-animation#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "@types/react": "^18.2.47"
+  },
+  "files": ["libs/**/*"]
+}
